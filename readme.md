@@ -14,8 +14,9 @@ ElasticQueue is released under the MIT Open Source License, <https://opensource.
 ElasticQueue &copy; Broker Exchange Network
 
 ## Installation
- * run command `composer require brokerexchange\elasticqueue`
- * Add `ElasticQueue\ElasticQueueServiceProvider::class,` to config/app.php
+ * Run command `composer require brokerexchange\elasticqueue`
+ * If you are using Laravel 5.5+, this package will be auto-discovered
+    * Otherwise, add `ElasticQueue\ElasticQueueServiceProvider::class,` to config/app.php
  * Add to config/queue.php 
 
 ```php

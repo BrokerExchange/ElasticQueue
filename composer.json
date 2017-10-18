@@ -22,5 +22,12 @@
     "psr-4": {
       "ElasticQueue\\": "src/"
     }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "ElasticQueue\\ElasticQueueServiceProvider"
+      ]
+    }
   }
 }

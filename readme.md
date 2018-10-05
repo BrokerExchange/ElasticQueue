@@ -5,7 +5,7 @@
 [![composer.lock](https://poser.pugx.org/brokerexchange/elasticqueue/composerlock)](https://packagist.org/packages/brokerexchange/elasticqueue)
 
 # ElasticQueue
-Laravel Queue Driver for Elasticsearch
+Laravel Queue Driver for Elasticsearch 
 
 ## License
 ElasticQueue is released under the MIT Open Source License, <https://opensource.org/licenses/MIT>

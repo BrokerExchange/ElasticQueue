@@ -11,7 +11,7 @@ Laravel Queue Driver for Elasticsearch
 ElasticQueue is released under the MIT Open Source License, <https://opensource.org/licenses/MIT>
 
 ## Copyright
-ElasticQueue &copy; Broker Exchange Network
+ElasticQueue &copy; Broker Exchange Network 2018
 
 ## Installation
  * Run command `composer require brokerexchange\elasticqueue`
